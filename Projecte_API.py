@@ -90,5 +90,3 @@ while option != 5:
         print("Opcio no valida, torna a intentar-ho")
     if option != 5:
         input("Prem Enter per tornar al menú...")
-
-#/usr/bin/python3 /dades/dades/SMX1B_Armaan/Prog./Projecte/Projecte_API.py
