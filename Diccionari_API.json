@@ -1,0 +1,454 @@
+{
+  "jugadors": {
+    "Cristiano Ronaldo": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 41,
+      "equip": "Al Nassr",
+      "nacionalitat": "Portugal",
+      "imagen": "https://images.daznservices.com/di/library/DAZN_News/91/8c/cristiano-ronaldo-champions-league_17ak1udoiuj631316hlbv1bi1i.png?t=37193869"
+    },
+    "Lionel Messi": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 38,
+      "equip": "Inter Miami",
+      "nacionalitat": "Argentina",
+      "imagen": "https://editorial.uefa.com/resources/0250-0e99a4c9ad01-75a22cee61b2-1000/lionel_messi_barcelona_.jpeg"
+    },
+    "Kylian Mbappé": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 27,
+      "equip": "Real Madrid",
+      "nacionalitat": "França",
+      "imagen": "https://periodismo.ull.es/wp-content/uploads/2022/08/Mbappe1.jpg"
+    },
+    "Erling Haaland": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 25,
+      "equip": "Manchester City",
+      "nacionalitat": "Noruega",
+      "imagen": "https://www.mancity.com/meta/media/bn0p2an2/tf301474-f-1920x1080-d030c36.jpg?width=1620"
+    },
+    "Lamine Yamal": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 18,
+      "equip": "Barcelona",
+      "nacionalitat": "Espanya",
+      "imagen": "https://www.fcbarcelona.com/photo-resources/2025/09/09/a9ecee2c-116c-405c-8524-3127913e7a3c/10-Lamine.jpg?width=1200&height=750"
+    },
+    "Vinícius Júnior": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 25,
+      "equip": "Real Madrid",
+      "nacionalitat": "Brasil",
+      "imagen": "https://media.elcomercio.com/wp-content/uploads/2025/10/VINICIUS-JUNIOR-REAL-MADRID-1024x683.jpg"
+    },
+    "Jude Bellingham": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 22,
+      "equip": "Real Madrid",
+      "nacionalitat": "Anglaterra",
+      "imagen": "https://img2.rtve.es/n/16081451"
+    },
+    "Mohamed Salah": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 34,
+      "equip": "Liverpool",
+      "nacionalitat": "Egipte",
+      "imagen": "https://images.jacobinmag.com/wp-content/uploads/sites/3/2025/12/21225946/shutterstock_2694852453-scaled.jpg"
+    },
+    "Harry Kane": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 32,
+      "equip": "Bayern Munich",
+      "nacionalitat": "Anglaterra",
+      "imagen": "https://static.independent.co.uk/2023/09/23/21/23-3f7555d8b2b348bb8115927748064c32.jpg"
+    },
+    "Pedri": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 23,
+      "equip": "Barcelona",
+      "nacionalitat": "Espanya",
+      "imagen": "https://pbs.twimg.com/media/HByYOQSXEAAgn-8.jpg"
+    },
+    "Robert Lewandowski": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 37,
+      "equip": "Barcelona",
+      "nacionalitat": "Polònia",
+      "imagen": "https://www.fcbarcelona.com/photo-resources/2025/09/10/10530dc5-694c-43b5-8ade-bde1ab834ccc/09-Lewandowski.jpg?width=1200&height=750"
+    },
+    "Virgil van Dijk": {
+      "posicio": [
+        "Defensa"
+      ],
+      "edat": 35,
+      "equip": "Liverpool",
+      "nacionalitat": "Països Baixos",
+      "imagen": "https://assets.goal.com/images/v3/blt58637cbb30a51a30/news_3_pc.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+    },
+    "Thibaut Courtois": {
+      "posicio": [
+        "Porter"
+      ],
+      "edat": 34,
+      "equip": "Real Madrid",
+      "nacionalitat": "Bèlgica",
+      "imagen": "https://e00-us-marca.uecdn.es/assets/multimedia/imagenes/2022/05/30/16538686724314.jpg"
+    },
+    "Rodri": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 29,
+      "equip": "Manchester City",
+      "nacionalitat": "Espanya",
+      "imagen": "https://media.tycsports.com/files/2023/06/10/579839/rodri-festejo-getty_1440x810_wmk.webp?v=1"
+    },
+    "Kevin De Bruyne": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 34,
+      "equip": "Manchester City",
+      "nacionalitat": "Bèlgica",
+      "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2024/09/05/17198438720248.jpeg"
+    },
+    "Declan Rice": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 27,
+      "equip": "Arsenal",
+      "nacionalitat": "Anglaterra",
+      "imagen": "https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/05c7fd8d-261b-4063-ad8a-2b3ebf5b449c/2025-04-08T203224Z_500509766_UP1EL481L1ZFZ_RTRMADP_3_SOCCER-CHAMPIONS-ARS-RMA-REPORT.JPG?ver=03-06-2025?w=3840&q=75"
+    },
+    "Ousmane Dembélé": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 28,
+      "equip": "Paris Saint-Germain",
+      "nacionalitat": "França",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2024/11/05/17308314277696.jpg"
+    },
+    "Raphinha": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 29,
+      "equip": "Barcelona",
+      "nacionalitat": "Brasil",
+      "imagen": "https://es.coachesvoice.com/wp-content/uploads/2025/03/Raphinha_main-scaled.jpg"
+    },
+    "Lautaro Martínez": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 28,
+      "equip": "Inter Milan",
+      "nacionalitat": "Argentina",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3fb6ba3c-9a95-4c50-b5a9-3ddae1ec94bb_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    "Achraf Hakimi": {
+      "posicio": [
+        "Defensa"
+      ],
+      "edat": 27,
+      "equip": "Paris Saint-Germain",
+      "nacionalitat": "Marroc",
+      "imagen": "https://www.fichajes.net/sites/default/files/styles/epsa_detail_thumbail/public/2026-04/achraf-Hakimi-quiere-volver-al-real-madrid.jpg.webp?h=70238fe6&itok=kmcbAf_C"
+    },
+    "Bruno Fernandes": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 31,
+      "equip": "Manchester United",
+      "nacionalitat": "Portugal",
+      "imagen": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2025/12/bruno-fernandes-2.jpg?w=1600&h=900&fit=crop"
+    },
+    "Jamal Musiala": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 22,
+      "equip": "Bayern Munich",
+      "nacionalitat": "Alemanya",
+      "imagen": "https://img.fcbayern.com/image/upload/f_auto/q_auto/t_cms-1x1-seo/v1739021996/cms/public/images/fcbayern-com/homepage/Saison-24-25/Sonstiges/Musiala-VVL/musiala-vvl-kiel-2025-ima.jpg"
+    },
+    "Phil Foden": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 26,
+      "equip": "Manchester City",
+      "nacionalitat": "Anglaterra",
+      "imagen": "https://www.planetsport.com/image-library/land/1200/1347648_phil-foden-manchester-city-apr24.webp"
+    },
+    "Bukayo Saka": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 24,
+      "equip": "Arsenal",
+      "nacionalitat": "Anglaterra",
+      "imagen": "https://ichef.bbci.co.uk/ace/standard/830/cpsprodpb/8007/live/aa0ff980-0b32-11f1-89e7-89779f9c687a.jpg "
+    },
+    "Cole Palmer": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 23,
+      "equip": "Chelsea",
+      "nacionalitat": "Anglaterra",
+      "imagen": "https://img.chelseafc.com/image/upload/f_auto,w_1440,c_fill,g_faces,dpr_2.0,q_90/editorial/news/2025/09/16/palmer-celebration-stock-ice.jpg"
+    },
+    "Martin Ødegaard": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 27,
+      "equip": "Arsenal",
+      "nacionalitat": "Noruega",
+      "imagen": "https://panamagol.com/wp-content/uploads/2025/05/arsenal-fc-v-afc-bournemouth-premier-league.webp  "
+    },
+    "Son Heung-min": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 33,
+      "equip": "Tottenham",
+      "nacionalitat": "Corea del Sud",
+      "imagen": "https://assets.goal.com/images/v3/blt73755e9669a2ac3e/crop/MM5DCNJTGY5DQNRUHJXG653FHIZDENJ2GA======/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202025-01-06T090517.370.png?auto=webp&format=pjpg&width=3840&quality=60"
+    },
+    "Antoine Griezmann": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 35,
+      "equip": "Atlético Madrid",
+      "nacionalitat": "França",
+      "imagen": "https://assets.goal.com/images/v3/getty-2263389560/crop/MM5DGNJSGA5DCOJYGA5G433XMU5DAORSGA3Q====/GettyImages-2263389560.jpg?auto=webp&format=pjpg&width=3840&quality=60 "
+    },
+    "Gianluigi Donnarumma": {
+      "posicio": [
+        "Porter"
+      ],
+      "edat": 27,
+      "equip": "Paris Saint-Germain",
+      "nacionalitat": "Itàlia",
+      "imagen": "https://e0.365dm.com/25/09/1600x900/skysports-gianluigi-donnarumma_7028007.jpg?20250921182233"
+    },
+    "William Saliba": {
+      "posicio": [
+        "Defensa"
+      ],
+      "edat": 25,
+      "equip": "Arsenal",
+      "nacionalitat": "França",
+      "imagen": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_210,w_3940,h_2216/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/sports_illustrated_ftbol/01k6g3dhja278ea1s1m2.jpg"
+    },
+    "Aurélien Tchouaméni": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 26,
+      "equip": "Real Madrid",
+      "nacionalitat": "França",
+      "imagen": "https://defensacentral.com/uploads/s1/46/95/23/2/tcho-2.jpeg"
+    },
+    "Eduardo Camavinga": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 23,
+      "equip": "Real Madrid",
+      "nacionalitat": "França",
+      "imagen": "https://media.ouest-france.fr/v1/pictures/MjAyNjAzMzMzYWVlZmE5MDgwYTQ5MWViNTZjZWRkYTg0YTM4Mzk?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4faae12b3c9bf977c818ab2b2978ead84e65dd6bf555ece74bef762441190edc"
+    },
+    "Rodrygo": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 25,
+      "equip": "Real Madrid",
+      "nacionalitat": "Brasil",
+      "imagen": "https://dynamo.kiev.ua/media/posts/2025/07/05/rg.jpeg"
+    },
+    "Vitinha": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 26,
+      "equip": "Paris Saint-Germain",
+      "nacionalitat": "Portugal",
+      "imagen": "https://images.performgroup.com/di/library/omnisport/e4/91/vitinha_aeuhwa8c7l6b1rgnpmp05muy1.jpg?t=1943005499&w=1200&h=630"
+    },
+    "Federico Valverde": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 27,
+      "equip": "Real Madrid",
+      "nacionalitat": "Uruguai",
+      "imagen": "https://ca-times.brightspotcdn.com/dims4/default/cd6a3bb/2147483647/strip/true/crop/1024x682+0+0/resize/1200x799!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2Fb5%2F4b87f9194b0289fbb81489ace842%2Fap26127745064026.jpg"
+    },
+    "Joshua Kimmich": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 31,
+      "equip": "Bayern Munich",
+      "nacionalitat": "Alemanya",
+      "imagen": "https://assets.goal.com/images/v3/getty-2201010307/crop/MM5DEOBYGA5DCNRSGA5G433XMU5DCMBVGY5DENJX/GettyImages-2201010307.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+    },
+    "Álvaro Morata": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 33,
+      "equip": "Milan",
+      "nacionalitat": "Espanya",
+      "imagen": "https://objetos-xlk.estaticos-marca.com/uploads/2024/09/05/17173973518487.jpeg"
+    },
+    "Marc-André ter Stegen": {
+      "posicio": [
+        "Porter"
+      ],
+      "edat": 33,
+      "equip": "Barcelona",
+      "nacionalitat": "Alemanya",
+      "imagen": "https://www.fcbarcelona.com/photo-resources/2026/01/20/a3d45cb6-f137-4631-8fa8-2c728455eef3/WhatsApp-Image-2026-01-20-at-19.39.54.jpeg?width=1200&height=750"
+    },
+    "Frenkie de Jong": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 28,
+      "equip": "Barcelona",
+      "nacionalitat": "Països Baixos",
+      "imagen": "https://www.fcbarcelona.com/photo-resources/2026/02/26/fc034914-b378-4033-8623-e71d357e3137/_MGA1089.jpg?width=1200&height=525"
+    },
+    "Gavi": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 21,
+      "equip": "Barcelona",
+      "nacionalitat": "Espanya",
+      "imagen": "https://img2.rtve.es/n/2406233?w=1600"
+    },
+    "João Félix": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 26,
+      "equip": "Chelsea",
+      "nacionalitat": "Portugal",
+      "imagen": "https://resources.saudi-pro-league.pulselive.com/photo-resources/2026/03/01/113fb112-305a-4bd4-a821-677a38b19faf/-joao-Felix-celebrates-Al-Nassr-goal-at-Al-Fayha.jpg?width=1868&height=1136"
+    },
+    "Toni Kroos": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 36,
+      "equip": "Real Madrid",
+      "nacionalitat": "Alemanya",
+      "imagen": "https://www.fichajes.net/sites/default/files/styles/epsa_detail_thumbail/public/2026-04/real-madrid-toni-kroos-fichaje.jpg.webp?h=5dd10543&itok=IijA30In"
+    },
+    "Sergio Ramos": {
+      "posicio": [
+        "Defensa"
+      ],
+      "edat": 40,
+      "equip": "Sevilla",
+      "nacionalitat": "Espanya",
+      "imagen": "https://www.fichajes.net/sites/default/files/styles/epsa_detail_thumbail/public/2025-12/sergio-ramos-podria-regresar-francia.jpg.webp?h=df3c6bf4&itok=Li2bnxjZ"
+    },
+    "Neymar Jr": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 34,
+      "equip": "Al Hilal",
+      "nacionalitat": "Brasil",
+      "imagen": "https://images.ctfassets.net/3mv54pzvptwz/5eTv6hTyA1pqkFClYRn0qt/be626a573cbf1ee7e421b73f87ed6851/20221205_foto_GETTY_neymar_jr_jogo_brasil_x_coreia_copa_do_mundo__209_.jpg"
+    },
+    "Luis Suárez": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 39,
+      "equip": "Inter Miami",
+      "nacionalitat": "Uruguai",
+      "imagen": "https://www.fcbarcelona.com/fcbarcelona/photo/2020/09/06/c7355114-245c-48a3-b5fe-0cea11dc9379/SUAREZ-56-min.jpg"
+    },
+    "Manuel Neuer": {
+      "posicio": [
+        "Porter"
+      ],
+      "edat": 40,
+      "equip": "Bayern Munich",
+      "nacionalitat": "Alemanya",
+      "imagen": "https://www.fichajes.net/sites/default/files/styles/epsa_detail_thumbail/public/2026-04/neuer-podria-ser-sorpresa-verano.jpg.webp?h=df3c6bf4&itok=e2lRpLm0"
+    },
+    "Karim Benzema": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 38,
+      "equip": "Al Ittihad",
+      "nacionalitat": "França",
+      "imagen": "https://colimdo.org/wp-content/uploads/2023/01/20d86d25-karim-benzema.jpeg"
+    },
+    "Ángel Di María": {
+      "posicio": [
+        "Migcampista"
+      ],
+      "edat": 38,
+      "equip": "Benfica",
+      "nacionalitat": "Argentina",
+      "imagen": "https://img2.rtve.es/n/2412175"
+    },
+    "Paulo Dybala": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 32,
+      "equip": "Roma",
+      "nacionalitat": "Argentina",
+      "imagen": "https://www.juvefc.com/wp-content/uploads/2020/02/1-scaled.jpg"
+    },
+    "Sadio Mané": {
+      "posicio": [
+        "Delanter"
+      ],
+      "edat": 34,
+      "equip": "Al Nassr",
+      "nacionalitat": "Senegal",
+      "imagen": "https://assets.goal.com/images/v3/blt11791df5802e5c4d/57f649bdfe1c1678e3453d5432c444db270cbd73.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+    }
+  }
+}
